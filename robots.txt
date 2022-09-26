@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://giblrisbox.github.io/sitemap.xml
